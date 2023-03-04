@@ -119,6 +119,9 @@ p {
   font-family: "Roboto", sans-serif;
 }
 
+.body-header {
+  color: black;
+}
 .row h2 {
   text-align: left;
   margin: 0 auto;
