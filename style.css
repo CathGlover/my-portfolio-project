@@ -53,7 +53,7 @@ p {
 
 .contact-heading {
   padding: 50px;
-  display: block;
+  text-align: center;
 }
 .navigation-links {
   display: flex;
@@ -143,7 +143,7 @@ p {
 .body-header {
   color: black;
 }
-.row h2 {
+.row .body-header {
   text-align: left;
   margin: 0 auto;
   padding: 15px;
