@@ -204,4 +204,8 @@ p {
   img {
     max-width: 80%;
   }
+
+  .broken-button {
+    font-size: 12px;
+  }
 }
