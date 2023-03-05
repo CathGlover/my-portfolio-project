@@ -183,6 +183,11 @@ p {
   border-radius: 4px;
 }
 
+.work-image-section {
+  color: white;
+  padding: 100px;
+}
+
 @media (max-width: 600px) {
   h1,
   h2,
