@@ -205,7 +205,8 @@ p {
     max-width: 80%;
   }
 
-  .broken-button{
+  .broken-button,
+  .contact-heading {
     font-size: 12px;
   }
 }
