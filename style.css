@@ -214,6 +214,7 @@ p {
 }
 
 .contact-wrap {
+  padding: 50px auto;
   text-align: center;
   display: block;
   font-size: 60px;
@@ -221,6 +222,11 @@ p {
 
 .contact-links {
   color: white;
-  font-size: 18px;
+  font-size: 16px;
   text-decoration: none;
+}
+
+.white-space {
+  padding: 50px auto;
+  margin: 50px auto;
 }
