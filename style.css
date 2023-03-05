@@ -53,6 +53,7 @@ p {
 
 .contact-heading {
   padding: 50px;
+  display: block;
 }
 .navigation-links {
   display: flex;
