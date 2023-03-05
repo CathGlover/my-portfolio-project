@@ -212,3 +212,15 @@ p {
     font-size: 18px;
   }
 }
+
+.contact-wrap {
+  text-align: center;
+  display: block;
+  font-size: 60px;
+}
+
+.contact-links {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+}
