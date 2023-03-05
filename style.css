@@ -119,6 +119,10 @@ p {
   height: 100%;
 }
 
+.about-me-wrap {
+  background-color: white;
+  padding: 50px;
+}
 .about-me-images:hover {
   transition: filter 150ms ease-in-out;
   transform: scale(1.1);
