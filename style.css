@@ -156,6 +156,7 @@ p {
 .about-me-images {
   box-shadow: var(--box-shadow);
   border: 5px solid white;
+  max-width: 100%;
 }
 
 .navbar {
@@ -193,5 +194,14 @@ p {
   h2,
   h3 {
     font-size: 32px;
+  }
+
+  p,
+  a {
+    font-size: 18px;
+  }
+
+  img {
+    max-width: 80%;
   }
 }
